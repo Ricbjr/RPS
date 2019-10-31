@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\RpsRicardo\RpsRicardo\bin\Debug\RpsRicardo.exe.config
+C:\Users\Usuario\source\repos\RpsRicardo\RpsRicardo\bin\Debug\RpsRicardo.exe
+C:\Users\Usuario\source\repos\RpsRicardo\RpsRicardo\bin\Debug\RpsRicardo.pdb
+C:\Users\Usuario\source\repos\RpsRicardo\RpsRicardo\obj\Debug\RpsRicardo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\RpsRicardo\RpsRicardo\obj\Debug\RpsRicardo.exe
+C:\Users\Usuario\source\repos\RpsRicardo\RpsRicardo\obj\Debug\RpsRicardo.pdb
